@@ -1,0 +1,50 @@
+body {
+	font-family: Lato, sans-serif;
+	width: 50%;
+	margin: 50px;
+}
+
+a {
+	color: #D00;
+	text-decoration: none;
+}
+
+a:hover {
+	color: #A00;
+}
+
+nav a {
+	color: #EEE;
+	text-decoration: underline;
+	font-size: 20px;
+}
+
+h2 a {
+	color: #000;
+}
+
+h1 {
+	font-weight: normal;
+}
+
+h2 {
+	font-weight: normal;
+}
+
+h3 {
+	color: #BBB;
+	font-weight: normal;
+}
+
+h4 {
+	text-align: right;
+}
+
+img {
+	width:100%;
+}
+
+p::first-letter {
+	font-weight: bold;
+	font-size: 40px;
+}
